@@ -4,7 +4,7 @@ const axios = require("axios").default;
 router.get("/list", (req, res) => {
   const { query: q } = req;
   axios
-    .get("https://yts.lt/api/v2/list_movies.json", {
+    .get("https://raw.githubusercontent.com/mtszao16/livetorrent/master/list_movies_2.json", {
       params: {
         query_term: q.query || q.q || 0,
         page: q.page || q.p || 1,
