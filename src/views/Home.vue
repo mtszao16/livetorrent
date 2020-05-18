@@ -52,14 +52,14 @@
         <v-flex class="text-xs-center mt-5">
           <v-btn
             color="gray"
-            href="https://github.com/Davenchy/live-torrent"
+            href="https://github.com/mtszao16/livetorrent"
             target="blank"
           >
             <v-icon left>fab fa-github</v-icon>Github
           </v-btn>
           <v-btn
             color="gray"
-            href="https://github.com/Davenchy/live-torrent/issues"
+            href="https://github.com/mtszao16/livetorrent/issues"
             target="blank"
           >
             <v-icon left>fas fa-exclamation-circle</v-icon>Github Issues

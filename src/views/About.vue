@@ -8,7 +8,7 @@
         <p>
           Live Torrent is open source.
           <br />Visit the github repository from
-          <a href="https://github.com/Davenchy/live-torrent">here</a>.
+          <a href="https://github.com/mtszao16/livetorrent">here</a>.
         </p>
         <p></p>
         <p>My twitter user: @fadi_davenchy.</p>

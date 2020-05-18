@@ -4,15 +4,15 @@ Search, explore and download torrent files online.
 
 Watch online YTS movies with subtitles.
 
-the backend package is [live-torrent-backend](https://github.com/Davenchy/live-torrent-backend)
+the backend package is [live-torrent-backend](https://github.com/mtszao16/livetorrent-backend)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Davenchy/live-torrent)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mtszao16/livetorrent)
 
 ## Install and Build
 
 ```
 # clone the project
-git clone https://github.com/Davenchy/live-torrent && cd live-torrent
+git clone https://github.com/mtszao16/livetorrent && cd live-torrent
 
 # then install dependencies
 npm install
@@ -44,7 +44,7 @@ Live torrent needs some environment variables you can define them in the termina
 | PORT          | 3000               | the server listening port            |
 | OSUA          | TemporaryUserAgent | the opensubtitles.org api user agent |
 
-for more information about the backend from [here](https://github.com/Davenchy/live-torrent-backend/wiki/How-to-use#environment-variables).
+for more information about the backend from [here](https://github.com/mtszao16/livetorrent-backend/wiki/How-to-use#environment-variables).
 
 for more information about the OpenSubtitles.org api user agent from [here](https://trac.opensubtitles.org/projects/opensubtitles/wiki/DevReadFirst)
 
